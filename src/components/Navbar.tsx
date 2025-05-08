@@ -27,7 +27,7 @@ const Navbar = () => {
     }`}>
       <div className="container mx-auto px-4 flex justify-between items-center">
         <div className="text-white font-playfair text-2xl font-bold">
-          <span className="text-restaurant-gold">S</span>avoria
+          <span className="text-restaurant-gold">H</span>ouse of Sattvik
         </div>
         <div className="hidden md:flex items-center space-x-8">
           <a href="#about" className="text-white hover:text-restaurant-gold transition-colors">About</a>

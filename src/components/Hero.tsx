@@ -6,7 +6,7 @@ const Hero = () => {
     <section className="hero-section h-screen flex items-center justify-center text-center">
       <div className="container mx-auto px-4 animate-fade-in">
         <h1 className="text-5xl md:text-7xl font-bold text-white mb-4">
-          <span className="text-restaurant-gold">S</span>avoria
+          <span className="text-restaurant-gold">H</span>ouse of Sattvik
         </h1>
         <p className="text-xl md:text-2xl text-white max-w-2xl mx-auto mb-8">
           A new fine dining experience coming to your city

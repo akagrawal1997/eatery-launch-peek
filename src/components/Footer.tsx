@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="mb-6 md:mb-0">
             <div className="text-white font-playfair text-2xl font-bold mb-3">
-              <span className="text-restaurant-gold">S</span>avoria
+              <span className="text-restaurant-gold">H</span>ouse of Sattvik
             </div>
             <p className="text-sm max-w-xs">
               A fine dining experience coming soon to your city. Farm-to-table cuisine with a modern twist.
@@ -20,7 +20,7 @@ const Footer = () => {
               <h4 className="text-white font-medium mb-3">Contact</h4>
               <p className="text-sm">123 Culinary Avenue</p>
               <p className="text-sm">Your City, ST 12345</p>
-              <p className="text-sm">info@savoriarestaurant.com</p>
+              <p className="text-sm">info@houseofsattvik.com</p>
             </div>
             
             <div>
@@ -50,7 +50,7 @@ const Footer = () => {
         </div>
         
         <div className="border-t border-white/10 mt-8 pt-8 flex flex-col md:flex-row justify-between items-center">
-          <p className="text-sm">© {currentYear} Savoria Restaurant. All rights reserved.</p>
+          <p className="text-sm">© {currentYear} House of Sattvik Restaurant. All rights reserved.</p>
           <div className="flex space-x-6 mt-4 md:mt-0">
             <a href="#" className="text-sm hover:text-white transition-colors">Privacy Policy</a>
             <a href="#" className="text-sm hover:text-white transition-colors">Terms of Service</a>

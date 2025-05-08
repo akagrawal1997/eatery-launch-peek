@@ -13,7 +13,7 @@ const AboutSection = () => {
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div>
             <p className="text-lg mb-6">
-              <span className="text-restaurant-burgundy font-bold">Savoria</span> is the culmination of Chef Laurent's 20-year journey through the culinary capitals of the world.
+              <span className="text-restaurant-burgundy font-bold">House of Sattvik</span> is the culmination of Chef Laurent's 20-year journey through the culinary capitals of the world.
             </p>
             <p className="text-lg mb-6">
               Our restaurant aims to bring you a dining experience that celebrates local ingredients with global techniques, creating memorable flavors in an elegant atmosphere.
